@@ -1,2 +1,1 @@
-# python caculator
- 
+박준석 GUI 계산기 사전과제입니다.
